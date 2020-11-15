@@ -1,0 +1,16 @@
+{
+  "cart": [
+    {
+      "name": "chocolate",
+      "price": 3.45,
+      "category": "Snacks"
+    },
+    {
+      "discount": 0.55,
+      "redeemPoint": 40,
+      "name": "blueberry",
+      "price": 4.25,
+      "category": "Fruit"
+    }
+  ]
+}

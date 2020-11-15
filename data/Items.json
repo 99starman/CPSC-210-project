@@ -1,0 +1,31 @@
+[
+  {
+    "name": "chocolate",
+    "price": 3.45,
+    "category": "Snacks"
+  },
+  {
+    "name": "avocado",
+    "price": 1.49,
+    "category": "Fruit"
+  },
+  {
+    "name": "milk",
+    "price": 4.55,
+    "category": "Dairy"
+  },
+  {
+    "discount": 0.55,
+    "redeemPoint": 40,
+    "name": "blueberry",
+    "price": 4.25,
+    "category": "Fruit"
+  },
+  {
+    "discount": 1.0,
+    "redeemPoint": 50,
+    "name": "cashew",
+    "price": 6.55,
+    "category": "Snacks"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "candy",
+    "price": 2.45,
+    "category": "Snacks"
+  },
+  {
+    "name": "avocado",
+    "price": 1.49,
+    "category": "Fruit"
+  },
+  {
+    "discount": 1.0,
+    "redeemPoint": 50,
+    "name": "cashew",
+    "price": 6.55,
+    "category": "Snacks"
+  }
+]
